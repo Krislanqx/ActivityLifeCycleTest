@@ -19,7 +19,8 @@
         android:id="@+id/button_StartNormalActivity"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="252dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="180dp"
         android:text="Start NormalActivity"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -28,7 +29,8 @@
         android:id="@+id/button_StartDialogAcitvity"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="668dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="336dp"
         android:text="Start DialogActivity"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
